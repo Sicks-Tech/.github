@@ -1,7 +1,7 @@
 # 🚀 Sicks Tech
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+<p align="center"> 
+<img src="../Generated Image January 09, 2026 - 1_30AM.jpeg" height="200px" alt="watching_count" />
  </p>
 
 A **Sicks Tech** é uma software house focada no desenvolvimento de **sistemas móveis nativos**, com especialização exclusiva na plataforma **Android**.
