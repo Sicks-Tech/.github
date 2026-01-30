@@ -1,85 +1,77 @@
-#  Sicks Tech
+# 🚀 Sicks Tech
 
-**Sicks Tech** is a technology company focused on the development of **mobile systems**, currently working exclusively with **Android**.
+A **Sicks Tech** é uma software house focada no desenvolvimento de **sistemas móveis nativos**, com especialização exclusiva na plataforma **Android**.
 
-We are **software-first**, building well-structured, efficient mobile applications designed for real-world usage, especially in operational, sales, and business automation scenarios.
-
----
-
-##  About Sicks Tech
-
-Sicks Tech was created with the goal of delivering **solid mobile solutions**, developed by professionals who understand both **product thinking** and **software engineering**.
-
-Our focus includes:
-- Android applications
-- Mobile software architecture
-- API and external service integrations
-- Mobile solutions for business operations
+Somos **software-first**: construímos aplicações eficientes e bem estruturadas para uso em cenários reais, com foco em operações logísticas, vendas e automação comercial.
 
 ---
 
-##  Active Projects
+## 💡 Sobre a Sicks Tech
+
+A Sicks Tech nasceu com o propósito de entregar **soluções móveis sólidas**, desenvolvidas por quem une **visão de produto** e **engenharia de software**.
+
+Nossa expertise inclui:
+* Desenvolvimento nativo Android (Kotlin/Java).
+* Arquitetura de software mobile escalável.
+* Integração de APIs e serviços externos.
+* Soluções mobile para operações de negócio complexas.
+
+---
+
+## 🛠 Projetos Ativos
 
 ### Truck Pay
-**Status:** In development 🚧 
-**Platform:** Android  
-**Main and currently the only Sicks Tech repository**
+**Status:** Em desenvolvimento 🚧  
+**Plataforma:** Android (Smartphone & SmartPOS)
 
-**Truck Pay** is an Android mobile system designed for **sales and payment operations**, especially for food trucks, mobile commerce, and small businesses.
+O **Truck Pay** é o projeto flagship da Sicks Tech: um sistema mobile voltado para **operações de venda e pagamentos**, ideal para food trucks, comércio móvel e pequenas empresas.
 
-#### Project goals:
-- Simplify mobile sales workflows
-- Integrate payment systems
-- Provide a solid and scalable architecture
-- Enable integration with Android devices (POS terminals, payment machines)
+#### Diferenciais do Projeto:
+* Fluxos de venda simplificados e intuitivos.
+* Integração nativa com sistemas de pagamento (mPOS).
+* Arquitetura robusta preparada para falhas de rede.
+* **Comunicação com periféricos:** Integração via SDK com terminais POS e impressoras térmicas (ESC/POS).
 
-> Truck Pay represents the Sicks Tech vision: **well-engineered mobile software applied to real business problems**.
-
----
-
-##  What We Do
-
-- Android application development
-- Custom mobile systems
-- API integrations
-- Mobile solutions for business automation
-- Integration with Android-based devices (POS, peripherals)
+> O Truck Pay materializa a nossa visão: **software bem projetado aplicado a problemas reais de negócio.**
 
 ---
 
-##  Tech Stack
+## 🎯 O Que Fazemos
 
-The stack may vary by project, but currently includes:
-
-- Android SDK  
-- Kotlin / Java  
-- MVVM / Clean Architecture  
-- REST APIs  
-- Local and remote databases  
-- Git & GitHub  
+* Desenvolvimento de aplicativos Android sob medida.
+* Integração profunda com APIs REST.
+* Automação comercial através de dispositivos móveis.
+* **Domínio de Hardware:** Integração com dispositivos baseados em Android (POS, impressoras e periféricos).
 
 ---
 
-##  Positioning
+## 💻 Tech Stack
 
-Sicks Tech positions itself as a **mobile software house**, currently focused exclusively on **Android** development.
+Nossa stack é selecionada para garantir performance e manutenibilidade:
 
-We value:
-- clean code
-- conscious technical decisions
-- performance and usability
-- practical and scalable solutions
-
-We don’t sell empty promises.  
-We deliver **functional, production-ready Android applications**.
+* **Linguagens:** Kotlin e Java.
+* **Arquitetura:** MVVM e princípios de Clean Architecture.
+* **Local Data:** Room Database e Cache Inteligente.
+* **Network:** Retrofit e Coroutines.
+* **Controle:** Git e GitHub.
 
 ---
 
-##  Contact
+## 🛡 Posicionamento
 
-More mobile projects will be added as Sicks Tech continues to evolve.
+Nos posicionamos como uma boutique de software Android. Valorizamos:
+* **Código Limpo:** Facilidade de manutenção e leitura.
+* **Decisões Técnicas Conscientes:** Escolha de ferramentas baseada em dados, não em hype.
+* **Performance:** Apps leves que entregam o que prometem.
 
-> **Sicks Tech**  
-> Software-first. Mobile-focused. Android-driven.
+Não entregamos promessas vazias. Entregamos **software Android pronto para produção.**
+
+---
+
+## 📫 Contato
+
+Novos projetos e inovações mobile estão sempre em nosso roadmap.
+
+> **Sicks Tech** > Software-first. Mobile-focused. Android-driven.
 
 
